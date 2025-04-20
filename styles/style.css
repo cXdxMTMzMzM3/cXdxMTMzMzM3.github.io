@@ -1,3 +1,14 @@
 html {
-	font-size: 12px;
+	background-color: #cbffad;
+	/*GREEN: bdffad */
+	/*GRAY: c8cbba */
+	/*RED: ffbbad */
+}
+
+a {
+	text-decoration-line: none;
+}
+
+.color {
+	color: #6b974f;
 }
